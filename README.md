@@ -8,15 +8,15 @@ Todos los filtros serán implementados en pytorch.
 
 > Nota: A la fecha todavia falta agregar el notebook de two tower para incorporarlo al framework que se usa en main, para entender el funcionamiento es suciente con mirar los notebooks
 
-
-## 📄 Documentación Técnica
-
-## 📄 Documentación Técnica
-
-<embed src="TPfinalNN_BrianFuentes_101785.pdf" type="application/pdf" width="100%" height="600px" />
-
-## 📄 Documentación Técnica
-
-<object data="TPfinalNN_BrianFuentes_101785.pdf" type="application/pdf" width="100%" height="600px">
-  <p>📋 <a href="TPfinalNN_BrianFuentes_101785.pdf">Ver Documento Completo</a></p>
-</object>
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>TP Final</title>
+  <style>html,body,iframe{height:100%;margin:0} iframe{width:100%;border:0}</style>
+</head>
+<body>
+  ../TPfinalNN_BrianFuentes_101785.pdf</iframe>
+</body>
+</html>
