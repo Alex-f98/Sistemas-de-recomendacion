@@ -40,9 +40,9 @@ Debido al volumen de datos (148M+ calificaciones), se utilizó Apache Spark para
 - Función de costo: Error cuadrático medio con regularización
 
 **Formulación matemática**:
-$$
+```
 min Σ(w^j · x^i + b^j - y^(i,j))^2 + λ(Σ||w^j||^2 + Σ||x^i||^2)
-$$
+```
 
 ### 2. Two-Tower Model
 **Descripción**: Arquitectura de deep learning con dos torres independientes que aprenden representaciones vectoriales de usuarios e ítems.
