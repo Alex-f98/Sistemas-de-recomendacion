@@ -11,6 +11,12 @@ Todos los filtros serán implementados en pytorch.
 
 ## 📄 Documentación Técnica
 
-<iframe src="TPfinalNN_BrianFuentes_101785.pdf" width="100%" height="600px">
+## 📄 Documentación Técnica
+
+<embed src="TPfinalNN_BrianFuentes_101785.pdf" type="application/pdf" width="100%" height="600px" />
+
+## 📄 Documentación Técnica
+
+<object data="TPfinalNN_BrianFuentes_101785.pdf" type="application/pdf" width="100%" height="600px">
   <p>📋 <a href="TPfinalNN_BrianFuentes_101785.pdf">Ver Documento Completo</a></p>
-</iframe>
+</object>
