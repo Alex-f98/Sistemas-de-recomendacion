@@ -8,4 +8,4 @@ Todos los filtros serán implementados en pytorch.
 
 > Nota: A la fecha todavia falta agregar el notebook de two tower para incorporarlo al framework que se usa en main, para entender el funcionamiento es suciente con mirar los notebooks
 
-[Ver PDF: TPfinalNN_BrianFuentes_101785.pdf](./TP
+[Ver PDF: Diseño y evaluación de un sistema de recomendacion con MF y TwoTower](./TPfinalNN_BrianFuentes_101785.pdf)
